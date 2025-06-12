@@ -6,6 +6,6 @@ Esse código foi desenvolvido para a disciplina de Engenharia de Software II, da
 O código está contido na pasta `/src`, sendo organizado em pastas contendo as classes com as suas determinadas responsabilidades.
 <br>
 
-Os dois padrões de projeto que foram escolhidos foram Factory Method e Strategy.
-**Factory Method:** representado através das classes de geracão do contrato.
+Os dois padrões de projeto que foram escolhidos foram Factory Method e Strategy. <br>
+**Factory Method:** representado através das classes de geracão do contrato.<br>
 **Strategy:** representado através das classes de estratégias de pagamento.
